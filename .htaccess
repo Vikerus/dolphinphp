@@ -1,0 +1,1 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop workingDirectoryIndex home.phpRewriteBase /public_html/space/ home.php
